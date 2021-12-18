@@ -1,4 +1,4 @@
-# Fetal Health Classification
+# Fetal Health Prediction
 ## MVP
 
 The goal of this project is to perform a Classification model to classify the differences of fetal health based on different test results values. One of the main assessment methods of fetal healt is cardiotocagraphy (CTG) which evaluates fetal heart beat and uterine contractions of mother. CTG monitoring is widely used to assess fetal wellbeing by identifying babies at risk of hypoxia (lack of oxygen). CTG is mainly used during labour.
