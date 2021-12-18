@@ -12,7 +12,6 @@ This project dataset was provided by Kaggle, We use this data to bulid a model t
 The dataset features include Baseline value Fetal Heart Rate (FHR), Accelerations, Fetal movement, Uterine contractions, Severe decelerations, Prolonged decelerations,
 Abnormal short-term variability, Percentage of time with abnormal long-term variability, Fetal health
 
-
 Raws:2126 rows
 Columns: 22 columns
 
