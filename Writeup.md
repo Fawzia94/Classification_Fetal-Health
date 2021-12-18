@@ -18,9 +18,9 @@ Abnormal short-term variability, Percentage of time with abnormal long-term vari
 # Algorithms
 
 - Logistic Regression
-- Decision Tree
 - Random forest
-- SVC
+- Gradient Boosting
+- XGBoost
 
 # Tools
  
