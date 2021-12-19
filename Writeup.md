@@ -33,3 +33,4 @@ Abnormal short-term variability, Percentage of time with abnormal long-term vari
 
 After testing our model this figuer shows how we got a perfct Fetal health prediction
 
+![fetal 11 (2)](https://user-images.githubusercontent.com/93079353/146666345-ed301e80-2ca9-469f-b008-7072083386c1.png)
